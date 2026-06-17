@@ -42,7 +42,7 @@ Create a `.env` file in the root directory (see `.env.example` if available):
 ```env
 KAFKA_BOOTSTRAP_SERVERS=localhost:9092
 KAFKA_TOPIC_NAME=market_events
-KAFKA_CLUSTER_ID=AmErYsqRTnOXda0Fst_iBw
+KAFKA_CLUSTER_ID=<Your Cluster ID here>
 ```
 
 ## 📖 Usage
